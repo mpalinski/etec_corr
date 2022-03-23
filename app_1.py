@@ -25,8 +25,15 @@ df_stud=pd.read_csv('./corr_students.csv')
 available_indicators = df['Indicator Name'].unique()
 available_countries = df['Country Name'].unique()
 
+# external JavaScript files
+external_scripts = [
+    'https://cdn.jsdelivr.net/gh/mpalinski/etec_corr@main/assets/resizing.js'
+]
 
-app1 = dash.Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=[dbc.themes.BOOTSTRAP],url_base_pathname='/dash/')
+
+app1 = dash.Dash(__name__, suppress_callback_exceptions=True, external_stylesheets=[dbc.themes.BOOTSTRAP],
+external_scripts=external_scripts,
+url_base_pathname='/dash/')
 
 # server = app.server
 
