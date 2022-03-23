@@ -12,7 +12,12 @@ import dash_bootstrap_components as dbc
 
 # external_stylesheets = [dbc.themes.SUPERHERO]
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+# external JavaScript files
+external_scripts = [
+    'https://cdn.jsdelivr.net/gh/mpalinski/etec_corr@main/assets/resizing.js'
+]
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets,external_scripts=external_scripts)
 
 server = app.server
 
@@ -20,6 +25,8 @@ df_stud=pd.read_csv('./corr_students.csv')
 
 available_indicators = df_stud['Indicator Name'].unique()
 available_countries = df_stud['Country Name'].unique()
+
+
 
 app.layout = html.Div([
     html.Div([

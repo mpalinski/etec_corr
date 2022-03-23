@@ -11,7 +11,12 @@ import dash_bootstrap_components as dbc
 
 external_stylesheets = [dbc.themes.BOOTSTRAP]
 
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+# external JavaScript files
+external_scripts = [
+    'https://cdn.jsdelivr.net/gh/mpalinski/etec_corr@main/assets/resizing.js'
+]
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets,external_scripts=external_scripts)
 
 server = app.server
 
@@ -19,6 +24,8 @@ df_schools=pd.read_csv('./corr_schools.csv')
 
 available_indicators = df_schools['Indicator Name'].unique()
 available_countries = df_schools['Country Name'].unique()
+
+
 
 app.layout = html.Div([
     html.Div([

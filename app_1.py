@@ -75,6 +75,13 @@ html.H3('Analysis level'),
 country_layout = html.Div([
     html.Div([
     html.H1('TIMSS 2019 | Correlations | Countries'),
+
+     html.Div([
+
+html.Div(
+    dbc.Button('Analysis level', className="tutorial", href='/dash'),
+    style={'width': '10%', 'display': 'inline-block'}
+),
 html.Div(
     [
         dbc.Button("Tutorial", id="open", className="tutorial"),
@@ -92,7 +99,8 @@ html.Div(
             size="lg",
         ),
     ]
-),
+,style={'width': '10%', 'display': 'inline-block'}),
+]),
         html.Div(
         [html.H4('x axis'),
             dcc.Dropdown(
@@ -244,6 +252,12 @@ def stats(xaxis_column_name, yaxis_column_name,
 school_layout = html.Div([
     html.Div([
     html.H1('TIMSS 2019 | Correlations | Schools'),
+     html.Div([
+
+html.Div(
+    dbc.Button('Analysis level', className="tutorial", href='/dash'),
+    style={'width': '10%', 'display': 'inline-block'}
+),
 html.Div(
     [
         dbc.Button("Tutorial", id="open", className="tutorial"),
@@ -251,7 +265,7 @@ html.Div(
             [
                 dbc.ModalHeader("Tutorial"),
                 dbc.ModalBody(
-                html.Iframe(src="https://www.dailymotion.com/embed/video/k4IutmR2VAr2AgwXb1y?autoplay=1&queue-enable=false", width="100%", height="500px")
+                html.Iframe(src="https://www.dailymotion.com/embed/video/k7DKKxILyWYWplwXaUQ?autoplay=1&queue-enable=false", width="100%", height="500px")
     ),
                 dbc.ModalFooter(
                     dbc.Button("Close", id="close", className="ml-auto tutorial")
@@ -261,7 +275,8 @@ html.Div(
             size="lg",
         ),
     ]
-),
+,style={'width': '10%', 'display': 'inline-block'}),
+]),
     html.Div(
 
     [html.H4('country'),
@@ -435,6 +450,13 @@ def stats_schools(xaxis_column_name, yaxis_column_name, country_column_name,
 student_layout = html.Div([
     html.Div([
     html.H1('TIMSS 2019 | Correlations | Students'),
+
+     html.Div([
+
+html.Div(
+    dbc.Button('Analysis level', className="tutorial", href='/dash'),
+    style={'width': '10%', 'display': 'inline-block'}
+),
 html.Div(
     [
         dbc.Button("Tutorial", id="open", className="tutorial"),
@@ -442,7 +464,7 @@ html.Div(
             [
                 dbc.ModalHeader("Tutorial"),
                 dbc.ModalBody(
-                html.Iframe(src="https://www.dailymotion.com/embed/video/k4IutmR2VAr2AgwXb1y?autoplay=1&queue-enable=false", width="100%", height="500px")
+                html.Iframe(src="https://www.dailymotion.com/embed/video/k7DKKxILyWYWplwXaUQ?autoplay=1&queue-enable=false", width="100%", height="500px")
     ),
                 dbc.ModalFooter(
                     dbc.Button("Close", id="close", className="ml-auto tutorial")
@@ -452,7 +474,8 @@ html.Div(
             size="lg",
         ),
     ]
-),
+,style={'width': '10%', 'display': 'inline-block'}),
+]),
     html.Div(
 
     [html.H4('country'),
