@@ -1,0 +1,421 @@
+2022-02-27 18:04:48.739666: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'router'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:04:48.749472: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'router'
+
+2022-02-27 18:04:48.756991: Running on_exit tasks
+2022-02-27 18:04:48.767069: wfastcgi.py 3.0.0 closed
+2022-02-27 18:04:56.178956: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'router'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:04:56.189139: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'router'
+
+2022-02-27 18:04:56.195178: Running on_exit tasks
+2022-02-27 18:04:56.206229: wfastcgi.py 3.0.0 closed
+2022-02-27 18:04:59.520671: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'router'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:04:59.536820: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+ModuleNotFoundError: No module named 'router'
+
+2022-02-27 18:04:59.545810: Running on_exit tasks
+2022-02-27 18:04:59.553676: wfastcgi.py 3.0.0 closed
+2022-02-27 18:22:04.178886: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+ModuleNotFoundError: No module named 'app_1'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:22:04.191067: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+ModuleNotFoundError: No module named 'app_1'
+
+2022-02-27 18:22:04.198056: Running on_exit tasks
+2022-02-27 18:22:04.207858: wfastcgi.py 3.0.0 closed
+2022-02-27 18:22:39.348335: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+  File "C:\inetpub\wwwroot\corr\.\app_1.py", line 33, in <module>
+    app.title = 'TIMSS 2019 | Correlations'
+NameError: name 'app' is not defined
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:22:39.358449: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+  File "C:\inetpub\wwwroot\corr\.\app_1.py", line 33, in <module>
+    app.title = 'TIMSS 2019 | Correlations'
+NameError: name 'app' is not defined
+2022-02-27 18:22:39.375834: Running on_exit tasks
+2022-02-27 18:22:39.385097: wfastcgi.py 3.0.0 closed
+2022-02-27 18:24:03.112013: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+  File "C:\inetpub\wwwroot\corr\.\app_1.py", line 144, in <module>
+    @app.callback(
+NameError: name 'app' is not defined
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:24:03.124700: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+  File "C:\inetpub\wwwroot\corr\.\app_1.py", line 144, in <module>
+    @app.callback(
+NameError: name 'app' is not defined
+2022-02-27 18:24:03.144521: Running on_exit tasks
+2022-02-27 18:24:03.153089: wfastcgi.py 3.0.0 closed
+2022-02-27 18:24:12.352778: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+  File "C:\inetpub\wwwroot\corr\.\app_1.py", line 144, in <module>
+    @app.callback(
+NameError: name 'app' is not defined
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:24:12.366502: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 2, in <module>
+    from app_1 import app1
+  File "C:\inetpub\wwwroot\corr\.\app_1.py", line 144, in <module>
+    @app.callback(
+NameError: name 'app' is not defined
+2022-02-27 18:24:12.385618: Running on_exit tasks
+2022-02-27 18:24:12.392607: wfastcgi.py 3.0.0 closed
+2022-02-27 18:25:03.658066: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 3, in <module>
+    from app_2 import app2
+ModuleNotFoundError: No module named 'app_2'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:25:03.667127: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 3, in <module>
+    from app_2 import app2
+ModuleNotFoundError: No module named 'app_2'
+
+2022-02-27 18:25:03.675154: Running on_exit tasks
+2022-02-27 18:25:03.683525: wfastcgi.py 3.0.0 closed
+2022-02-27 18:25:21.949779: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 3, in <module>
+    from app_2 import app2
+ModuleNotFoundError: No module named 'app_2'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:25:21.960300: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 3, in <module>
+    from app_2 import app2
+ModuleNotFoundError: No module named 'app_2'
+
+2022-02-27 18:25:21.970125: Running on_exit tasks
+2022-02-27 18:25:21.979430: wfastcgi.py 3.0.0 closed
+2022-02-27 18:25:25.704166: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 3, in <module>
+    from app_2 import app2
+ModuleNotFoundError: No module named 'app_2'
+
+
+
+StdOut: 
+
+StdErr: 
+2022-02-27 18:25:25.715687: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "router.app" could not be imported: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File "C:\inetpub\wwwroot\corr\.\router.py", line 3, in <module>
+    from app_2 import app2
+ModuleNotFoundError: No module named 'app_2'
+
+2022-02-27 18:25:25.724351: Running on_exit tasks
+2022-02-27 18:25:25.733700: wfastcgi.py 3.0.0 closed
+2022-02-27 18:25:42.247438: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:25:42.249295: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:25:44.665298: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:25:44.679970: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:25:44.701672: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:25:44.711454: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:25:44.721862: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:34:25.820774: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:34:25.833613: Running on_exit tasks
+2022-02-27 18:34:25.841018: wfastcgi.py 3.0.0 closed
+2022-02-27 18:34:27.311882: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:34:27.312912: Running on_exit tasks
+2022-02-27 18:34:27.312912: Running on_exit tasks
+2022-02-27 18:34:27.328466: wfastcgi.py 3.0.0 closed
+2022-02-27 18:34:27.328466: wfastcgi.py 3.0.0 closed
+2022-02-27 18:34:35.679141: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:34:35.692070: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:34:39.427825: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:34:39.436470: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:34:39.442714: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:39:49.376676: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:39:49.396345: Running on_exit tasks
+2022-02-27 18:39:49.399874: wfastcgi.py 3.0.0 closed
+2022-02-27 18:39:52.775045: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:39:52.787223: Running on_exit tasks
+2022-02-27 18:39:52.793439: wfastcgi.py 3.0.0 closed
+2022-02-27 18:40:27.791713: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:40:27.807348: Running on_exit tasks
+2022-02-27 18:40:27.810094: wfastcgi.py 3.0.0 closed
+2022-02-27 18:54:17.369646: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:54:17.376280: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:54:18.936292: wfastcgi.py will restart when files in C:\inetpub\wwwroot\corr\ are changed: .*((\.py)|(\.config))$
+2022-02-27 18:54:18.943915: wfastcgi.py 3.0.0 initialized
+2022-02-27 18:59:31.100094: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:59:31.113465: Running on_exit tasks
+2022-02-27 18:59:31.120838: wfastcgi.py 3.0.0 closed
+2022-02-27 18:59:32.429382: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "c:\inetpub\wwwroot\corr\venv\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-27 18:59:32.441743: Running on_exit tasks
+2022-02-27 18:59:32.447416: wfastcgi.py 3.0.0 closed
+2022-02-27 18:59:32.447416: wfastcgi.py 3.0.0 closed

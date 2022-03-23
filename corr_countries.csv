@@ -1,0 +1,685 @@
+,continent,Indicator Name,Value,Country Name
+0,Europe,Student Bullying,11.26800608965175,Albania
+1,Europe,Student Bullying,10.943923645387361,Azerbaijan
+2,Other,Student Bullying,9.521081540362157,Australia
+3,Europe,Student Bullying,10.167133931853554,Austria
+4,Asia,Student Bullying,9.277213052317125,Bahrain
+5,Europe,Student Bullying,11.299804171311873,Armenia
+6,Europe,Student Bullying,10.823675016486302,Bosnia and Herzegovina
+7,Europe,Student Bullying,9.801514848246134,Bulgaria
+8,Other,Student Bullying,9.57574284128015,Canada
+9,Other,Student Bullying,9.838923195570828,Chile
+10,Asia,Student Bullying,10.251253070896455,Chinese Taipei
+11,Europe,Student Bullying,10.449588753774332,Croatia
+12,Europe,Student Bullying,10.00236683659765,Cyprus
+13,Europe,Student Bullying,10.159798161677063,Czech Republic
+14,Europe,Student Bullying,9.745929864553892,Denmark
+15,Europe,Student Bullying,10.687263826537523,Finland
+16,Europe,Student Bullying,10.516055809762786,France
+17,Europe,Student Bullying,10.876101125084364,Georgia
+18,Europe,Student Bullying,9.835837119259411,Germany
+19,Asia,Student Bullying,9.91410992504252,Hong Kong
+20,Europe,Student Bullying,9.908282198095522,Hungary
+21,Asia,Student Bullying,10.033636999036563,Iran
+22,Europe,Student Bullying,10.4838925974119,Ireland
+23,Europe,Student Bullying,9.651448919105517,Italy
+24,Asia,Student Bullying,10.910764310927233,Japan
+25,Asia,Student Bullying,10.482412008236546,Kazakhstan
+26,Asia,Student Bullying,10.635453198524637,Korea
+27,Europe,Student Bullying,11.133709905492683,Kosovo
+28,Asia,Student Bullying,9.23533590915898,Kuwait
+29,Europe,Student Bullying,9.35532270258724,Latvia
+30,Europe,Student Bullying,10.297337966236443,Lithuania
+31,Europe,Student Bullying,9.677441335837534,Malta
+32,Europe,Student Bullying,11.098508211367676,Montenegro
+33,Other,Student Bullying,9.578585012374296,Morocco
+34,Asia,Student Bullying,9.296306423124474,Oman
+35,Europe,Student Bullying,10.028156859676407,Netherlands
+36,Other,Student Bullying,9.257827939895366,New Zealand
+37,Europe,Student Bullying,10.32871037702301,Norway
+38,Asia,Student Bullying,9.277897962041953,Pakistan
+39,Asia,Student Bullying,7.719499559882615,Philippines
+40,Europe,Student Bullying,10.376115050810695,Poland
+41,Europe,Student Bullying,9.782453671621868,Portugal
+42,Asia,Student Bullying,9.017813134135032,Qatar
+43,Europe,Student Bullying,9.606995130679572,Russian Federation
+44,Asia,Student Bullying,9.552122137979639,Saudi Arabia
+45,Europe,Student Bullying,11.06906630891056,Serbia
+46,Asia,Student Bullying,9.72330384492922,Singapore
+47,Europe,Student Bullying,10.177357197552343,Slovak Republic
+48,Other,Student Bullying,8.3813666438657,South Other
+49,Europe,Student Bullying,9.924976553317885,Spain
+50,Europe,Student Bullying,10.04622208416396,Sweden
+51,Asia,Student Bullying,9.502811192955846,United Arab Emirates
+52,Asia,Student Bullying,9.902376687196968,Turkey
+53,Europe,Student Bullying,10.271382470610332,North Macedonia
+54,Other,Student Bullying,9.976884672903532,United States
+55,Europe,Student Bullying,9.798659134086334,England
+56,Europe,Student Bullying,9.473641299993268,Belgium
+57,Europe,Disorderly Behavior during Math Lessons,10.939342760504664,Albania
+58,Europe,Disorderly Behavior during Math Lessons,10.6221048892863,Azerbaijan
+59,Other,Disorderly Behavior during Math Lessons,9.509323546019738,Australia
+60,Europe,Disorderly Behavior during Math Lessons,9.904540758424515,Austria
+61,Asia,Disorderly Behavior during Math Lessons,9.959008079630857,Bahrain
+62,Europe,Disorderly Behavior during Math Lessons,11.00371313337823,Armenia
+63,Europe,Disorderly Behavior during Math Lessons,9.914218670527873,Bosnia and Herzegovina
+64,Europe,Disorderly Behavior during Math Lessons,10.645850410256132,Bulgaria
+65,Other,Disorderly Behavior during Math Lessons,9.500064079544444,Canada
+66,Other,Disorderly Behavior during Math Lessons,8.734399456750031,Chile
+67,Asia,Disorderly Behavior during Math Lessons,10.094756127855348,Chinese Taipei
+68,Europe,Disorderly Behavior during Math Lessons,9.890683449366541,Croatia
+69,Europe,Disorderly Behavior during Math Lessons,9.666839448935786,Cyprus
+70,Europe,Disorderly Behavior during Math Lessons,9.85239142528277,Czech Republic
+71,Europe,Disorderly Behavior during Math Lessons,9.723216803014484,Denmark
+72,Europe,Disorderly Behavior during Math Lessons,10.16299785517569,Finland
+73,Europe,Disorderly Behavior during Math Lessons,9.603518741582905,France
+74,Europe,Disorderly Behavior during Math Lessons,10.75817719717618,Georgia
+75,Europe,Disorderly Behavior during Math Lessons,9.33283087668133,Germany
+76,Asia,Disorderly Behavior during Math Lessons,10.223296344915537,Hong Kong
+77,Europe,Disorderly Behavior during Math Lessons,10.150329531052241,Hungary
+78,Asia,Disorderly Behavior during Math Lessons,10.077080747454868,Iran
+79,Europe,Disorderly Behavior during Math Lessons,10.202484723104206,Ireland
+80,Europe,Disorderly Behavior during Math Lessons,9.211927044257855,Italy
+81,Asia,Disorderly Behavior during Math Lessons,11.267004700034466,Japan
+82,Asia,Disorderly Behavior during Math Lessons,10.833075792771714,Kazakhstan
+83,Asia,Disorderly Behavior during Math Lessons,10.260594603174471,Korea
+84,Europe,Disorderly Behavior during Math Lessons,10.7472113021155,Kosovo
+85,Asia,Disorderly Behavior during Math Lessons,9.5951516838194,Kuwait
+86,Europe,Disorderly Behavior during Math Lessons,10.022539605320857,Latvia
+87,Europe,Disorderly Behavior during Math Lessons,10.565643601699248,Lithuania
+88,Europe,Disorderly Behavior during Math Lessons,9.359595667365305,Malta
+89,Europe,Disorderly Behavior during Math Lessons,10.384046965867425,Montenegro
+90,Other,Disorderly Behavior during Math Lessons,10.401369733686368,Morocco
+91,Asia,Disorderly Behavior during Math Lessons,10.232138590476154,Oman
+92,Europe,Disorderly Behavior during Math Lessons,9.736304758736305,Netherlands
+93,Other,Disorderly Behavior during Math Lessons,9.254601478150668,New Zealand
+94,Europe,Disorderly Behavior during Math Lessons,9.95454459626893,Norway
+95,Asia,Disorderly Behavior during Math Lessons,10.347471420295859,Pakistan
+96,Asia,Disorderly Behavior during Math Lessons,9.298757260224061,Philippines
+97,Europe,Disorderly Behavior during Math Lessons,9.636096181114446,Poland
+98,Europe,Disorderly Behavior during Math Lessons,9.651567894164652,Portugal
+99,Asia,Disorderly Behavior during Math Lessons,9.821247043041936,Qatar
+100,Europe,Disorderly Behavior during Math Lessons,10.137711220034392,Russian Federation
+101,Asia,Disorderly Behavior during Math Lessons,10.373420738016362,Saudi Arabia
+102,Europe,Disorderly Behavior during Math Lessons,10.30941064885017,Serbia
+103,Asia,Disorderly Behavior during Math Lessons,,Singapore
+104,Europe,Disorderly Behavior during Math Lessons,9.803916316592419,Slovak Republic
+105,Other,Disorderly Behavior during Math Lessons,9.212912682473732,South Other
+106,Europe,Disorderly Behavior during Math Lessons,9.43425150862627,Spain
+107,Europe,Disorderly Behavior during Math Lessons,9.698449678691448,Sweden
+108,Asia,Disorderly Behavior during Math Lessons,10.219411367352881,United Arab Emirates
+109,Asia,Disorderly Behavior during Math Lessons,10.055815483833904,Turkey
+110,Europe,Disorderly Behavior during Math Lessons,10.525319202366923,North Macedonia
+111,Other,Disorderly Behavior during Math Lessons,9.403568898416498,United States
+112,Europe,Disorderly Behavior during Math Lessons,9.755577331743483,England
+113,Europe,Disorderly Behavior during Math Lessons,9.887270180113674,Belgium
+114,Europe,Students Like Learning Math,11.824451083422469,Albania
+115,Europe,Students Like Learning Math,10.90852053848256,Azerbaijan
+116,Other,Students Like Learning Math,9.737817650439002,Australia
+117,Europe,Students Like Learning Math,9.804547044688697,Austria
+118,Asia,Students Like Learning Math,10.62144761770954,Bahrain
+119,Europe,Students Like Learning Math,11.387560817266584,Armenia
+120,Europe,Students Like Learning Math,10.113032569689873,Bosnia and Herzegovina
+121,Europe,Students Like Learning Math,10.388346128018826,Bulgaria
+122,Other,Students Like Learning Math,9.654867583708292,Canada
+123,Other,Students Like Learning Math,9.998853261358795,Chile
+124,Asia,Students Like Learning Math,8.859256285906506,Chinese Taipei
+125,Europe,Students Like Learning Math,9.071070302763085,Croatia
+126,Europe,Students Like Learning Math,10.46725274133692,Cyprus
+127,Europe,Students Like Learning Math,9.387464858490523,Czech Republic
+128,Europe,Students Like Learning Math,9.242144736992618,Denmark
+129,Europe,Students Like Learning Math,9.228473726230222,Finland
+130,Europe,Students Like Learning Math,10.238703761971733,France
+131,Europe,Students Like Learning Math,11.42782918205649,Georgia
+132,Europe,Students Like Learning Math,9.5063246335879,Germany
+133,Asia,Students Like Learning Math,9.319656884029541,Hong Kong
+134,Europe,Students Like Learning Math,9.717448592641194,Hungary
+135,Asia,Students Like Learning Math,10.762707691893894,Iran
+136,Europe,Students Like Learning Math,9.531627312307602,Ireland
+137,Europe,Students Like Learning Math,10.021858262569886,Italy
+138,Asia,Students Like Learning Math,9.439727360360285,Japan
+139,Asia,Students Like Learning Math,11.11260869728306,Kazakhstan
+140,Asia,Students Like Learning Math,8.9450165305171,Korea
+141,Europe,Students Like Learning Math,11.399647521154384,Kosovo
+142,Asia,Students Like Learning Math,10.173135492065962,Kuwait
+143,Europe,Students Like Learning Math,9.451065548463541,Latvia
+144,Europe,Students Like Learning Math,10.118484602501491,Lithuania
+145,Europe,Students Like Learning Math,10.129476951079475,Malta
+146,Europe,Students Like Learning Math,10.90543893797111,Montenegro
+147,Other,Students Like Learning Math,11.267437755987503,Morocco
+148,Asia,Students Like Learning Math,10.794090830537895,Oman
+149,Europe,Students Like Learning Math,9.281314213218232,Netherlands
+150,Other,Students Like Learning Math,9.787506830027509,New Zealand
+151,Europe,Students Like Learning Math,9.433027326816866,Norway
+152,Asia,Students Like Learning Math,9.916590248210918,Pakistan
+153,Asia,Students Like Learning Math,9.752944434387441,Philippines
+154,Europe,Students Like Learning Math,9.199263363580512,Poland
+155,Europe,Students Like Learning Math,10.328410076037107,Portugal
+156,Asia,Students Like Learning Math,10.038871876982338,Qatar
+157,Europe,Students Like Learning Math,9.977980244599594,Russian Federation
+158,Asia,Students Like Learning Math,10.784473321558188,Saudi Arabia
+159,Europe,Students Like Learning Math,9.55272270511099,Serbia
+160,Asia,Students Like Learning Math,9.704576927244258,Singapore
+161,Europe,Students Like Learning Math,9.690672633848335,Slovak Republic
+162,Other,Students Like Learning Math,10.251784177690677,South Other
+163,Europe,Students Like Learning Math,9.69883907472739,Spain
+164,Europe,Students Like Learning Math,9.504431539171177,Sweden
+165,Asia,Students Like Learning Math,10.519197397127037,United Arab Emirates
+166,Asia,Students Like Learning Math,10.934587711294323,Turkey
+167,Europe,Students Like Learning Math,10.978592114492006,North Macedonia
+168,Other,Students Like Learning Math,9.654323202395764,United States
+169,Europe,Students Like Learning Math,9.915627526963187,England
+170,Europe,Students Like Learning Math,9.427250486623892,Belgium
+171,Europe,Students Like Learning Science,11.645982090204448,Albania
+172,Europe,Students Like Learning Science,10.33398468362561,Azerbaijan
+173,Other,Students Like Learning Science,9.88024143807148,Australia
+174,Europe,Students Like Learning Science,9.852568064128786,Austria
+175,Asia,Students Like Learning Science,10.999715658928585,Bahrain
+176,Europe,Students Like Learning Science,10.791111305507268,Armenia
+177,Europe,Students Like Learning Science,9.814254532572141,Bosnia and Herzegovina
+178,Europe,Students Like Learning Science,10.824279883654775,Bulgaria
+179,Other,Students Like Learning Science,9.881392455983084,Canada
+180,Other,Students Like Learning Science,9.698173636773427,Chile
+181,Asia,Students Like Learning Science,10.065148261497432,Chinese Taipei
+182,Europe,Students Like Learning Science,9.291301619234943,Croatia
+183,Europe,Students Like Learning Science,9.637691773852868,Cyprus
+184,Europe,Students Like Learning Science,9.189859743078564,Czech Republic
+185,Europe,Students Like Learning Science,9.196659982671633,Denmark
+186,Europe,Students Like Learning Science,8.710743405197617,Finland
+187,Europe,Students Like Learning Science,9.678278988155105,France
+188,Europe,Students Like Learning Science,10.620848561843738,Georgia
+189,Europe,Students Like Learning Science,9.808958573389562,Germany
+190,Asia,Students Like Learning Science,9.95457055239059,Hong Kong
+191,Europe,Students Like Learning Science,9.721299697220955,Hungary
+192,Asia,Students Like Learning Science,11.038829739009389,Iran
+193,Europe,Students Like Learning Science,10.227288977125507,Ireland
+194,Europe,Students Like Learning Science,10.21755041223709,Italy
+195,Asia,Students Like Learning Science,10.136746641299775,Japan
+196,Asia,Students Like Learning Science,10.438890463774069,Kazakhstan
+197,Asia,Students Like Learning Science,9.468670758468678,Korea
+198,Europe,Students Like Learning Science,10.853946855228925,Kosovo
+199,Asia,Students Like Learning Science,10.464437979531095,Kuwait
+200,Europe,Students Like Learning Science,9.421004249323634,Latvia
+201,Europe,Students Like Learning Science,9.948035253746234,Lithuania
+202,Europe,Students Like Learning Science,10.250031518143738,Malta
+203,Europe,Students Like Learning Science,10.491697327169563,Montenegro
+204,Other,Students Like Learning Science,11.024745939050698,Morocco
+205,Asia,Students Like Learning Science,10.943302407604115,Oman
+206,Europe,Students Like Learning Science,9.484090679688176,Netherlands
+207,Other,Students Like Learning Science,10.00642595707628,New Zealand
+208,Europe,Students Like Learning Science,9.85768255810423,Norway
+209,Asia,Students Like Learning Science,9.794139691403801,Pakistan
+210,Asia,Students Like Learning Science,9.27341920324126,Philippines
+211,Europe,Students Like Learning Science,9.250687079673868,Poland
+212,Europe,Students Like Learning Science,11.222418322546659,Portugal
+213,Asia,Students Like Learning Science,10.411114096568829,Qatar
+214,Europe,Students Like Learning Science,9.539538903418544,Russian Federation
+215,Asia,Students Like Learning Science,10.678108865340395,Saudi Arabia
+216,Europe,Students Like Learning Science,9.479757169070263,Serbia
+217,Asia,Students Like Learning Science,10.02177644341433,Singapore
+218,Europe,Students Like Learning Science,9.371210721739448,Slovak Republic
+219,Other,Students Like Learning Science,9.755788571944247,South Other
+220,Europe,Students Like Learning Science,9.813523157285903,Spain
+221,Europe,Students Like Learning Science,9.438121983858423,Sweden
+222,Asia,Students Like Learning Science,10.821590039847532,United Arab Emirates
+223,Asia,Students Like Learning Science,10.87917565778981,Turkey
+224,Europe,Students Like Learning Science,10.538466602250473,North Macedonia
+225,Other,Students Like Learning Science,10.096301307924994,United States
+226,Europe,Students Like Learning Science,9.797870872354657,England
+227,Europe,Students Like Learning Science,9.503020285742004,Belgium
+228,Europe,Instructional Clarity in Math Lessons,11.711716489155153,Albania
+229,Europe,Instructional Clarity in Math Lessons,10.77940849969069,Azerbaijan
+230,Other,Instructional Clarity in Math Lessons,9.940856629021802,Australia
+231,Europe,Instructional Clarity in Math Lessons,10.018633844775806,Austria
+232,Asia,Instructional Clarity in Math Lessons,10.136692872097973,Bahrain
+233,Europe,Instructional Clarity in Math Lessons,10.753966475338313,Armenia
+234,Europe,Instructional Clarity in Math Lessons,10.812779937673081,Bosnia and Herzegovina
+235,Europe,Instructional Clarity in Math Lessons,10.747662113241178,Bulgaria
+236,Other,Instructional Clarity in Math Lessons,9.970961601902076,Canada
+237,Other,Instructional Clarity in Math Lessons,9.591956645123206,Chile
+238,Asia,Instructional Clarity in Math Lessons,9.425762106458057,Chinese Taipei
+239,Europe,Instructional Clarity in Math Lessons,9.61814554440321,Croatia
+240,Europe,Instructional Clarity in Math Lessons,10.409816390094418,Cyprus
+241,Europe,Instructional Clarity in Math Lessons,9.835149746678795,Czech Republic
+242,Europe,Instructional Clarity in Math Lessons,9.054266201793558,Denmark
+243,Europe,Instructional Clarity in Math Lessons,9.458125080197224,Finland
+244,Europe,Instructional Clarity in Math Lessons,9.369384508201016,France
+245,Europe,Instructional Clarity in Math Lessons,10.821129385144172,Georgia
+246,Europe,Instructional Clarity in Math Lessons,9.709909101785282,Germany
+247,Asia,Instructional Clarity in Math Lessons,9.218976689077603,Hong Kong
+248,Europe,Instructional Clarity in Math Lessons,10.190033147413459,Hungary
+249,Asia,Instructional Clarity in Math Lessons,10.816753821487561,Iran
+250,Europe,Instructional Clarity in Math Lessons,10.074745926485535,Ireland
+251,Europe,Instructional Clarity in Math Lessons,9.57354256936168,Italy
+252,Asia,Instructional Clarity in Math Lessons,8.509368398020875,Japan
+253,Asia,Instructional Clarity in Math Lessons,10.076031653909189,Kazakhstan
+254,Asia,Instructional Clarity in Math Lessons,8.488189536012618,Korea
+255,Europe,Instructional Clarity in Math Lessons,11.266640395316434,Kosovo
+256,Asia,Instructional Clarity in Math Lessons,9.858761953188557,Kuwait
+257,Europe,Instructional Clarity in Math Lessons,9.491633875747496,Latvia
+258,Europe,Instructional Clarity in Math Lessons,10.184516190962425,Lithuania
+259,Europe,Instructional Clarity in Math Lessons,10.317639223097537,Malta
+260,Europe,Instructional Clarity in Math Lessons,11.053238092096471,Montenegro
+261,Other,Instructional Clarity in Math Lessons,10.337298817906575,Morocco
+262,Asia,Instructional Clarity in Math Lessons,10.14878099104321,Oman
+263,Europe,Instructional Clarity in Math Lessons,9.834338193834988,Netherlands
+264,Other,Instructional Clarity in Math Lessons,9.701364054094856,New Zealand
+265,Europe,Instructional Clarity in Math Lessons,9.61627123231207,Norway
+266,Asia,Instructional Clarity in Math Lessons,10.206549550566178,Pakistan
+267,Asia,Instructional Clarity in Math Lessons,8.764916638663335,Philippines
+268,Europe,Instructional Clarity in Math Lessons,9.241304438704178,Poland
+269,Europe,Instructional Clarity in Math Lessons,10.432213020008975,Portugal
+270,Asia,Instructional Clarity in Math Lessons,9.827593482085609,Qatar
+271,Europe,Instructional Clarity in Math Lessons,9.842011213538358,Russian Federation
+272,Asia,Instructional Clarity in Math Lessons,10.104562259064247,Saudi Arabia
+273,Europe,Instructional Clarity in Math Lessons,10.20924935199154,Serbia
+274,Asia,Instructional Clarity in Math Lessons,9.572149761382965,Singapore
+275,Europe,Instructional Clarity in Math Lessons,9.94342673682705,Slovak Republic
+276,Other,Instructional Clarity in Math Lessons,9.819223805471633,South Other
+277,Europe,Instructional Clarity in Math Lessons,10.15605732487736,Spain
+278,Europe,Instructional Clarity in Math Lessons,9.455921408852891,Sweden
+279,Asia,Instructional Clarity in Math Lessons,10.177926008694975,United Arab Emirates
+280,Asia,Instructional Clarity in Math Lessons,10.066013418879859,Turkey
+281,Europe,Instructional Clarity in Math Lessons,11.32459988027687,North Macedonia
+282,Other,Instructional Clarity in Math Lessons,10.109359447269632,United States
+283,Europe,Instructional Clarity in Math Lessons,9.954147857420397,England
+284,Europe,Instructional Clarity in Math Lessons,9.81473145971452,Belgium
+285,Europe,Students Sense of School Belonging,12.303389132461879,Albania
+286,Europe,Students Sense of School Belonging,11.142630810684135,Azerbaijan
+287,Other,Students Sense of School Belonging,9.794311195045314,Australia
+288,Europe,Students Sense of School Belonging,9.926319928538758,Austria
+289,Asia,Students Sense of School Belonging,10.17700205604015,Bahrain
+290,Europe,Students Sense of School Belonging,10.793625878994048,Armenia
+291,Europe,Students Sense of School Belonging,10.493291027798582,Bosnia and Herzegovina
+292,Europe,Students Sense of School Belonging,10.714380521001399,Bulgaria
+293,Other,Students Sense of School Belonging,9.691066414470347,Canada
+294,Other,Students Sense of School Belonging,9.971201616144775,Chile
+295,Asia,Students Sense of School Belonging,8.933456025484459,Chinese Taipei
+296,Europe,Students Sense of School Belonging,9.159821644262385,Croatia
+297,Europe,Students Sense of School Belonging,9.80788583330673,Cyprus
+298,Europe,Students Sense of School Belonging,9.19813247079326,Czech Republic
+299,Europe,Students Sense of School Belonging,9.83687336346952,Denmark
+300,Europe,Students Sense of School Belonging,10.030439634021663,Finland
+301,Europe,Students Sense of School Belonging,9.304619553344613,France
+302,Europe,Students Sense of School Belonging,11.003828679732756,Georgia
+303,Europe,Students Sense of School Belonging,9.435001352363395,Germany
+304,Asia,Students Sense of School Belonging,8.766224150985028,Hong Kong
+305,Europe,Students Sense of School Belonging,9.822114374297039,Hungary
+306,Asia,Students Sense of School Belonging,10.041509899546375,Iran
+307,Europe,Students Sense of School Belonging,10.004591974977615,Ireland
+308,Europe,Students Sense of School Belonging,9.615031634291867,Italy
+309,Asia,Students Sense of School Belonging,8.969040782855314,Japan
+310,Asia,Students Sense of School Belonging,10.589760452215979,Kazakhstan
+311,Asia,Students Sense of School Belonging,9.376899184067685,Korea
+312,Europe,Students Sense of School Belonging,12.153200340405435,Kosovo
+313,Asia,Students Sense of School Belonging,9.995612488216905,Kuwait
+314,Europe,Students Sense of School Belonging,9.217602093821968,Latvia
+315,Europe,Students Sense of School Belonging,9.991979693210942,Lithuania
+316,Europe,Students Sense of School Belonging,9.95028110268019,Malta
+317,Europe,Students Sense of School Belonging,11.202920959502192,Montenegro
+318,Other,Students Sense of School Belonging,11.311332529340078,Morocco
+319,Asia,Students Sense of School Belonging,10.36991318774305,Oman
+320,Europe,Students Sense of School Belonging,10.03473035078001,Netherlands
+321,Other,Students Sense of School Belonging,9.975049270025169,New Zealand
+322,Europe,Students Sense of School Belonging,10.186214616594263,Norway
+323,Asia,Students Sense of School Belonging,11.040389285835442,Pakistan
+324,Asia,Students Sense of School Belonging,9.483296713139037,Philippines
+325,Europe,Students Sense of School Belonging,8.908008378984782,Poland
+326,Europe,Students Sense of School Belonging,10.924649310597065,Portugal
+327,Asia,Students Sense of School Belonging,9.620143605729018,Qatar
+328,Europe,Students Sense of School Belonging,9.429075437890331,Russian Federation
+329,Asia,Students Sense of School Belonging,10.527985004014074,Saudi Arabia
+330,Europe,Students Sense of School Belonging,10.14735781031088,Serbia
+331,Asia,Students Sense of School Belonging,9.373104650205107,Singapore
+332,Europe,Students Sense of School Belonging,9.533748928980623,Slovak Republic
+333,Other,Students Sense of School Belonging,9.980931782414402,South Other
+334,Europe,Students Sense of School Belonging,10.394039133133667,Spain
+335,Europe,Students Sense of School Belonging,9.637286090165901,Sweden
+336,Asia,Students Sense of School Belonging,10.061934132152292,United Arab Emirates
+337,Asia,Students Sense of School Belonging,10.698805838594613,Turkey
+338,Europe,Students Sense of School Belonging,11.436163047030659,North Macedonia
+339,Other,Students Sense of School Belonging,9.598473832813937,United States
+340,Europe,Students Sense of School Belonging,9.849831015215157,England
+341,Europe,Students Sense of School Belonging,9.784644328196935,Belgium
+342,Europe,Students Confident in Math,11.043314553310509,Albania
+343,Europe,Students Confident in Math,10.686255934860593,Azerbaijan
+344,Other,Students Confident in Math,9.851613715859699,Australia
+345,Europe,Students Confident in Math,10.334802150605098,Austria
+346,Asia,Students Confident in Math,10.54736608754528,Bahrain
+347,Europe,Students Confident in Math,10.598087868411975,Armenia
+348,Europe,Students Confident in Math,10.521081813532623,Bosnia and Herzegovina
+349,Europe,Students Confident in Math,10.490551210776571,Bulgaria
+350,Other,Students Confident in Math,9.954817082789557,Canada
+351,Other,Students Confident in Math,9.491276417219426,Chile
+352,Asia,Students Confident in Math,9.028081114022227,Chinese Taipei
+353,Europe,Students Confident in Math,10.04226620717508,Croatia
+354,Europe,Students Confident in Math,10.84333786881081,Cyprus
+355,Europe,Students Confident in Math,9.530888410239264,Czech Republic
+356,Europe,Students Confident in Math,9.847600906005072,Denmark
+357,Europe,Students Confident in Math,10.064224935000782,Finland
+358,Europe,Students Confident in Math,10.018375131879045,France
+359,Europe,Students Confident in Math,10.443371733468528,Georgia
+360,Europe,Students Confident in Math,10.024150099558275,Germany
+361,Asia,Students Confident in Math,9.201678151924405,Hong Kong
+362,Europe,Students Confident in Math,10.23693778689393,Hungary
+363,Asia,Students Confident in Math,10.231938813181781,Iran
+364,Europe,Students Confident in Math,10.020256362504835,Ireland
+365,Europe,Students Confident in Math,10.160982140924656,Italy
+366,Asia,Students Confident in Math,9.237904459706304,Japan
+367,Asia,Students Confident in Math,10.603954361040035,Kazakhstan
+368,Asia,Students Confident in Math,9.161826830333121,Korea
+369,Europe,Students Confident in Math,10.965734341717031,Kosovo
+370,Asia,Students Confident in Math,10.039455213854842,Kuwait
+371,Europe,Students Confident in Math,9.518177602409187,Latvia
+372,Europe,Students Confident in Math,9.90921581714316,Lithuania
+373,Europe,Students Confident in Math,9.9844355487313,Malta
+374,Europe,Students Confident in Math,11.056599970909145,Montenegro
+375,Other,Students Confident in Math,10.377307805176287,Morocco
+376,Asia,Students Confident in Math,10.28458387415205,Oman
+377,Europe,Students Confident in Math,10.263310254682754,Netherlands
+378,Other,Students Confident in Math,9.429606406128462,New Zealand
+379,Europe,Students Confident in Math,10.250341227260062,Norway
+380,Asia,Students Confident in Math,9.662199346390825,Pakistan
+381,Asia,Students Confident in Math,9.03768541965261,Philippines
+382,Europe,Students Confident in Math,9.530164465331524,Poland
+383,Europe,Students Confident in Math,9.456975514559185,Portugal
+384,Asia,Students Confident in Math,9.87501322018267,Qatar
+385,Europe,Students Confident in Math,9.560915623155243,Russian Federation
+386,Asia,Students Confident in Math,10.638895766075585,Saudi Arabia
+387,Europe,Students Confident in Math,10.133030733679353,Serbia
+388,Asia,Students Confident in Math,9.309280132705702,Singapore
+389,Europe,Students Confident in Math,9.946277274421384,Slovak Republic
+390,Other,Students Confident in Math,9.418056381976628,South Other
+391,Europe,Students Confident in Math,9.742376445026895,Spain
+392,Europe,Students Confident in Math,10.230527550424593,Sweden
+393,Asia,Students Confident in Math,10.168467273112777,United Arab Emirates
+394,Asia,Students Confident in Math,10.11177340423304,Turkey
+395,Europe,Students Confident in Math,10.89081808215502,North Macedonia
+396,Other,Students Confident in Math,9.998231553765303,United States
+397,Europe,Students Confident in Math,9.923291332550322,England
+398,Europe,Students Confident in Math,9.881530820205022,Belgium
+399,Europe,Home Resources for Learning,8.64244515054315,Albania
+400,Europe,Home Resources for Learning,9.114184180021491,Azerbaijan
+401,Other,Home Resources for Learning,,Australia
+402,Europe,Home Resources for Learning,10.583441933171153,Austria
+403,Asia,Home Resources for Learning,9.908332597601271,Bahrain
+404,Europe,Home Resources for Learning,9.542729620901689,Armenia
+405,Europe,Home Resources for Learning,9.327005829462696,Bosnia and Herzegovina
+406,Europe,Home Resources for Learning,9.560125315301484,Bulgaria
+407,Other,Home Resources for Learning,11.298178604127571,Canada
+408,Other,Home Resources for Learning,9.299374436312815,Chile
+409,Asia,Home Resources for Learning,10.369470527283752,Chinese Taipei
+410,Europe,Home Resources for Learning,9.914165551226684,Croatia
+411,Europe,Home Resources for Learning,10.915306940847435,Cyprus
+412,Europe,Home Resources for Learning,10.784716886200576,Czech Republic
+413,Europe,Home Resources for Learning,11.29372877537719,Denmark
+414,Europe,Home Resources for Learning,11.18424017609339,Finland
+415,Europe,Home Resources for Learning,10.752712066865257,France
+416,Europe,Home Resources for Learning,10.268646135493103,Georgia
+417,Europe,Home Resources for Learning,10.827174982175636,Germany
+418,Asia,Home Resources for Learning,10.506417612642688,Hong Kong
+419,Europe,Home Resources for Learning,10.590394996924697,Hungary
+420,Asia,Home Resources for Learning,8.69765409358041,Iran
+421,Europe,Home Resources for Learning,11.085863890101445,Ireland
+422,Europe,Home Resources for Learning,9.778170256880816,Italy
+423,Asia,Home Resources for Learning,10.256797343826946,Japan
+424,Asia,Home Resources for Learning,9.797306047489345,Kazakhstan
+425,Asia,Home Resources for Learning,11.85605491584939,Korea
+426,Europe,Home Resources for Learning,9.129842653680896,Kosovo
+427,Asia,Home Resources for Learning,9.821736349669255,Kuwait
+428,Europe,Home Resources for Learning,10.616344269292425,Latvia
+429,Europe,Home Resources for Learning,10.35891113439158,Lithuania
+430,Europe,Home Resources for Learning,10.811988564883539,Malta
+431,Europe,Home Resources for Learning,9.956019276345966,Montenegro
+432,Other,Home Resources for Learning,6.899377714564782,Morocco
+433,Asia,Home Resources for Learning,9.378532419106435,Oman
+434,Europe,Home Resources for Learning,,Netherlands
+435,Other,Home Resources for Learning,11.362609373149295,New Zealand
+436,Europe,Home Resources for Learning,11.509890447913238,Norway
+437,Asia,Home Resources for Learning,7.961692757298523,Pakistan
+438,Asia,Home Resources for Learning,8.077028051675725,Philippines
+439,Europe,Home Resources for Learning,10.603872326219184,Poland
+440,Europe,Home Resources for Learning,10.221478494233295,Portugal
+441,Asia,Home Resources for Learning,10.226905150414453,Qatar
+442,Europe,Home Resources for Learning,10.301724571178728,Russian Federation
+443,Asia,Home Resources for Learning,9.39373458877721,Saudi Arabia
+444,Europe,Home Resources for Learning,10.019243658760423,Serbia
+445,Asia,Home Resources for Learning,11.021298592002458,Singapore
+446,Europe,Home Resources for Learning,10.238520898910167,Slovak Republic
+447,Other,Home Resources for Learning,8.476600891016902,South Other
+448,Europe,Home Resources for Learning,10.404066183803035,Spain
+449,Europe,Home Resources for Learning,11.221333815249258,Sweden
+450,Asia,Home Resources for Learning,10.355456112971348,United Arab Emirates
+451,Asia,Home Resources for Learning,8.729856644459833,Turkey
+452,Europe,Home Resources for Learning,9.29851329348347,North Macedonia
+453,Other,Home Resources for Learning,,United States
+454,Europe,Home Resources for Learning,,England
+455,Europe,Home Resources for Learning,10.737845609668543,Belgium
+456,Europe,Instructional Clarity in Science Lessons,11.556638381566977,Albania
+457,Europe,Instructional Clarity in Science Lessons,10.550362702263225,Azerbaijan
+458,Other,Instructional Clarity in Science Lessons,9.77988420023631,Australia
+459,Europe,Instructional Clarity in Science Lessons,10.07314228495214,Austria
+460,Asia,Instructional Clarity in Science Lessons,10.333627568586353,Bahrain
+461,Europe,Instructional Clarity in Science Lessons,10.796655308083652,Armenia
+462,Europe,Instructional Clarity in Science Lessons,10.842743002280915,Bosnia and Herzegovina
+463,Europe,Instructional Clarity in Science Lessons,10.754338664158736,Bulgaria
+464,Other,Instructional Clarity in Science Lessons,9.961732415022782,Canada
+465,Other,Instructional Clarity in Science Lessons,9.7533915949314,Chile
+466,Asia,Instructional Clarity in Science Lessons,9.702051961768483,Chinese Taipei
+467,Europe,Instructional Clarity in Science Lessons,9.862258487532225,Croatia
+468,Europe,Instructional Clarity in Science Lessons,9.811900438258393,Cyprus
+469,Europe,Instructional Clarity in Science Lessons,9.909852674131322,Czech Republic
+470,Europe,Instructional Clarity in Science Lessons,8.788815207832021,Denmark
+471,Europe,Instructional Clarity in Science Lessons,9.39529209259408,Finland
+472,Europe,Instructional Clarity in Science Lessons,9.306042974572227,France
+473,Europe,Instructional Clarity in Science Lessons,10.660422602784289,Georgia
+474,Europe,Instructional Clarity in Science Lessons,9.726548592939723,Germany
+475,Asia,Instructional Clarity in Science Lessons,9.245011683304835,Hong Kong
+476,Europe,Instructional Clarity in Science Lessons,10.310372295731721,Hungary
+477,Asia,Instructional Clarity in Science Lessons,10.860894706342824,Iran
+478,Europe,Instructional Clarity in Science Lessons,9.892191299121906,Ireland
+479,Europe,Instructional Clarity in Science Lessons,9.671989285042487,Italy
+480,Asia,Instructional Clarity in Science Lessons,8.60381844341612,Japan
+481,Asia,Instructional Clarity in Science Lessons,10.039327439870375,Kazakhstan
+482,Asia,Instructional Clarity in Science Lessons,8.543127763394773,Korea
+483,Europe,Instructional Clarity in Science Lessons,11.236200697007993,Kosovo
+484,Asia,Instructional Clarity in Science Lessons,10.202979214447621,Kuwait
+485,Europe,Instructional Clarity in Science Lessons,9.552732868620936,Latvia
+486,Europe,Instructional Clarity in Science Lessons,10.2108881743419,Lithuania
+487,Europe,Instructional Clarity in Science Lessons,10.075899845934206,Malta
+488,Europe,Instructional Clarity in Science Lessons,11.100294239424839,Montenegro
+489,Other,Instructional Clarity in Science Lessons,10.266635495699502,Morocco
+490,Asia,Instructional Clarity in Science Lessons,10.383129456687213,Oman
+491,Europe,Instructional Clarity in Science Lessons,9.696948785580519,Netherlands
+492,Other,Instructional Clarity in Science Lessons,9.509703780263068,New Zealand
+493,Europe,Instructional Clarity in Science Lessons,9.751508249407957,Norway
+494,Asia,Instructional Clarity in Science Lessons,10.021420632809251,Pakistan
+495,Asia,Instructional Clarity in Science Lessons,8.877699812014427,Philippines
+496,Europe,Instructional Clarity in Science Lessons,9.452944811832458,Poland
+497,Europe,Instructional Clarity in Science Lessons,10.373230697092133,Portugal
+498,Asia,Instructional Clarity in Science Lessons,10.001826550770742,Qatar
+499,Europe,Instructional Clarity in Science Lessons,9.999047900837487,Russian Federation
+500,Asia,Instructional Clarity in Science Lessons,10.090914274174983,Saudi Arabia
+501,Europe,Instructional Clarity in Science Lessons,10.290163489609485,Serbia
+502,Asia,Instructional Clarity in Science Lessons,9.584927242195219,Singapore
+503,Europe,Instructional Clarity in Science Lessons,9.95616147641407,Slovak Republic
+504,Other,Instructional Clarity in Science Lessons,9.673266760919795,South Other
+505,Europe,Instructional Clarity in Science Lessons,10.134999989142743,Spain
+506,Europe,Instructional Clarity in Science Lessons,9.516567102502393,Sweden
+507,Asia,Instructional Clarity in Science Lessons,10.28239179854284,United Arab Emirates
+508,Asia,Instructional Clarity in Science Lessons,10.16692619402509,Turkey
+509,Europe,Instructional Clarity in Science Lessons,11.171202637332856,North Macedonia
+510,Other,Instructional Clarity in Science Lessons,10.084776794651548,United States
+511,Europe,Instructional Clarity in Science Lessons,9.851461213385143,England
+512,Europe,Instructional Clarity in Science Lessons,9.913066508465748,Belgium
+513,Europe,Students Confident in Science,10.918169844085066,Albania
+514,Europe,Students Confident in Science,10.31583902556529,Azerbaijan
+515,Other,Students Confident in Science,9.579365456783238,Australia
+516,Europe,Students Confident in Science,10.37092692684339,Austria
+517,Asia,Students Confident in Science,10.767849904516408,Bahrain
+518,Europe,Students Confident in Science,10.302658596374869,Armenia
+519,Europe,Students Confident in Science,10.177640784550393,Bosnia and Herzegovina
+520,Europe,Students Confident in Science,10.725348698825021,Bulgaria
+521,Other,Students Confident in Science,9.724538628561849,Canada
+522,Other,Students Confident in Science,9.241847360567535,Chile
+523,Asia,Students Confident in Science,9.634700742959577,Chinese Taipei
+524,Europe,Students Confident in Science,10.013093516500549,Croatia
+525,Europe,Students Confident in Science,9.854497180885026,Cyprus
+526,Europe,Students Confident in Science,9.309128005656257,Czech Republic
+527,Europe,Students Confident in Science,9.522166424921558,Denmark
+528,Europe,Students Confident in Science,9.52897011189506,Finland
+529,Europe,Students Confident in Science,9.350672597283706,France
+530,Europe,Students Confident in Science,10.120200196619855,Georgia
+531,Europe,Students Confident in Science,9.931807109781767,Germany
+532,Asia,Students Confident in Science,9.151430899704852,Hong Kong
+533,Europe,Students Confident in Science,10.221405254944969,Hungary
+534,Asia,Students Confident in Science,10.731651394266644,Iran
+535,Europe,Students Confident in Science,9.67571665265477,Ireland
+536,Europe,Students Confident in Science,9.954099126840562,Italy
+537,Asia,Students Confident in Science,9.465220614347487,Japan
+538,Asia,Students Confident in Science,10.246442898261735,Kazakhstan
+539,Asia,Students Confident in Science,9.12486129160332,Korea
+540,Europe,Students Confident in Science,10.259689822034186,Kosovo
+541,Asia,Students Confident in Science,10.258394561006025,Kuwait
+542,Europe,Students Confident in Science,9.58747075541269,Latvia
+543,Europe,Students Confident in Science,9.571818772596405,Lithuania
+544,Europe,Students Confident in Science,9.943705223253518,Malta
+545,Europe,Students Confident in Science,10.508730466986373,Montenegro
+546,Other,Students Confident in Science,10.27251999475506,Morocco
+547,Asia,Students Confident in Science,10.451581827675637,Oman
+548,Europe,Students Confident in Science,9.625623806066416,Netherlands
+549,Other,Students Confident in Science,9.160334501345345,New Zealand
+550,Europe,Students Confident in Science,10.049917135317136,Norway
+551,Asia,Students Confident in Science,9.404394599271752,Pakistan
+552,Asia,Students Confident in Science,8.765697084354443,Philippines
+553,Europe,Students Confident in Science,9.604590783051261,Poland
+554,Europe,Students Confident in Science,10.08665605471052,Portugal
+555,Asia,Students Confident in Science,10.089273759985145,Qatar
+556,Europe,Students Confident in Science,9.462749127947772,Russian Federation
+557,Asia,Students Confident in Science,10.499260192280902,Saudi Arabia
+558,Europe,Students Confident in Science,9.91657977047149,Serbia
+559,Asia,Students Confident in Science,9.096579300929049,Singapore
+560,Europe,Students Confident in Science,9.629475648089526,Slovak Republic
+561,Other,Students Confident in Science,9.298438611628425,South Other
+562,Europe,Students Confident in Science,9.750029028682217,Spain
+563,Europe,Students Confident in Science,9.833438310184965,Sweden
+564,Asia,Students Confident in Science,10.2533097358566,United Arab Emirates
+565,Asia,Students Confident in Science,10.407689713635577,Turkey
+566,Europe,Students Confident in Science,10.422841788613637,North Macedonia
+567,Other,Students Confident in Science,9.833653714051865,United States
+568,Europe,Students Confident in Science,9.388050115355375,England
+569,Europe,Students Confident in Science,9.797013880174493,Belgium
+570,Europe,Math,494.0174865722656,Albania
+571,Europe,Math,515.4545288085938,Azerbaijan
+572,Other,Math,515.880126953125,Australia
+573,Europe,Math,539.2192993164062,Austria
+574,Asia,Math,479.8526611328125,Bahrain
+575,Europe,Math,498.1854248046875,Armenia
+576,Europe,Math,451.68206787109375,Bosnia and Herzegovina
+577,Europe,Math,515.0187377929688,Bulgaria
+578,Other,Math,511.5641784667969,Canada
+579,Other,Math,440.9723815917969,Chile
+580,Asia,Math,599.2395629882812,Chinese Taipei
+581,Europe,Math,509.4981994628906,Croatia
+582,Europe,Math,532.0938720703125,Cyprus
+583,Europe,Math,532.97509765625,Czech Republic
+584,Europe,Math,524.54150390625,Denmark
+585,Europe,Math,532.070556640625,Finland
+586,Europe,Math,484.8107604980469,France
+587,Europe,Math,481.8190002441406,Georgia
+588,Europe,Math,520.9806518554688,Germany
+589,Asia,Math,601.6223754882812,Hong Kong
+590,Europe,Math,523.4308471679688,Hungary
+591,Asia,Math,443.0350036621094,Iran
+592,Europe,Math,548.4653930664062,Ireland
+593,Europe,Math,514.9230346679688,Italy
+594,Asia,Math,592.9568481445312,Japan
+595,Asia,Math,512.0887451171875,Kazakhstan
+596,Asia,Math,599.6079711914062,Korea
+597,Europe,Math,444.3536682128906,Kosovo
+598,Asia,Math,383.31787109375,Kuwait
+599,Europe,Math,546.1332397460938,Latvia
+600,Europe,Math,542.1312866210938,Lithuania
+601,Europe,Math,509.12530517578125,Malta
+602,Europe,Math,452.7799987792969,Montenegro
+603,Other,Math,383.38800048828125,Morocco
+604,Asia,Math,430.8736267089844,Oman
+605,Europe,Math,537.5092163085938,Netherlands
+606,Other,Math,487.19183349609375,New Zealand
+607,Europe,Math,542.6693725585938,Norway
+608,Asia,Math,327.6905517578125,Pakistan
+609,Asia,Math,296.6751403808594,Philippines
+610,Europe,Math,520.1396484375,Poland
+611,Europe,Math,525.0914916992188,Portugal
+612,Asia,Math,449.4120178222656,Qatar
+613,Europe,Math,566.947021484375,Russian Federation
+614,Asia,Math,398.0931091308594,Saudi Arabia
+615,Europe,Math,507.8810729980469,Serbia
+616,Asia,Math,625.4286499023438,Singapore
+617,Europe,Math,509.84088134765625,Slovak Republic
+618,Other,Math,373.5644836425781,South Other
+619,Europe,Math,502.47161865234375,Spain
+620,Europe,Math,521.2293090820312,Sweden
+621,Asia,Math,481.3867492675781,United Arab Emirates
+622,Asia,Math,522.8562622070312,Turkey
+623,Europe,Math,471.7200622558594,North Macedonia
+624,Other,Math,534.732421875,United States
+625,Europe,Math,555.843017578125,England
+626,Europe,Math,532.44287109375,Belgium
+627,Europe,Science,489.4802551269531,Albania
+628,Europe,Science,426.7347412109375,Azerbaijan
+629,Other,Science,532.574951171875,Australia
+630,Europe,Science,522.0604858398438,Austria
+631,Asia,Science,492.54248046875,Bahrain
+632,Europe,Science,466.4317321777344,Armenia
+633,Europe,Science,458.5942077636719,Bosnia and Herzegovina
+634,Europe,Science,521.3024291992188,Bulgaria
+635,Other,Science,523.03271484375,Canada
+636,Other,Science,469.11578369140625,Chile
+637,Asia,Science,558.0504150390625,Chinese Taipei
+638,Europe,Science,523.8643798828125,Croatia
+639,Europe,Science,511.4191589355469,Cyprus
+640,Europe,Science,533.7195434570312,Czech Republic
+641,Europe,Science,522.1626586914062,Denmark
+642,Europe,Science,554.5612182617188,Finland
+643,Europe,Science,487.72802734375,France
+644,Europe,Science,454.21337890625,Georgia
+645,Europe,Science,518.3460083007812,Germany
+646,Asia,Science,531.2499389648438,Hong Kong
+647,Europe,Science,529.4384155273438,Hungary
+648,Asia,Science,440.8280334472656,Iran
+649,Europe,Science,527.9703979492188,Ireland
+650,Europe,Science,509.7282409667969,Italy
+651,Asia,Science,561.6589965820312,Japan
+652,Asia,Science,494.15484619140625,Kazakhstan
+653,Asia,Science,587.60693359375,Korea
+654,Europe,Science,413.05938720703125,Kosovo
+655,Asia,Science,392.2951354980469,Kuwait
+656,Europe,Science,541.8577270507812,Latvia
+657,Europe,Science,538.0792236328125,Lithuania
+658,Europe,Science,495.7906799316406,Malta
+659,Europe,Science,453.3214111328125,Montenegro
+660,Other,Science,374.0657043457031,Morocco
+661,Asia,Science,434.9443054199219,Oman
+662,Europe,Science,518.4713134765625,Netherlands
+663,Other,Science,502.55145263671875,New Zealand
+664,Europe,Science,539.4016723632812,Norway
+665,Asia,Science,290.0965270996094,Pakistan
+666,Asia,Science,249.01809692382812,Philippines
+667,Europe,Science,530.8328247070312,Poland
+668,Europe,Science,503.81512451171875,Portugal
+669,Asia,Science,449.4719543457031,Qatar
+670,Europe,Science,567.2546997070312,Russian Federation
+671,Asia,Science,402.2369384765625,Saudi Arabia
+672,Europe,Science,516.907470703125,Serbia
+673,Asia,Science,594.5286865234375,Singapore
+674,Europe,Science,520.7320556640625,Slovak Republic
+675,Other,Science,324.2336120605469,South Other
+676,Europe,Science,511.2821350097656,Spain
+677,Europe,Science,537.2332763671875,Sweden
+678,Asia,Science,472.5437927246094,United Arab Emirates
+679,Asia,Science,526.3551025390625,Turkey
+680,Europe,Science,426.04266357421875,North Macedonia
+681,Other,Science,538.642578125,United States
+682,Europe,Science,537.0260620117188,England
+683,Europe,Science,501.01702880859375,Belgium

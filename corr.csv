@@ -1,0 +1,571 @@
+,continent,Indicator Name,Value,Year,Country Name
+0,Europe,asbgsec,,2019,Albania
+1,Europe,asbgsec,,2019,Azerbaijan
+2,Other,asbgsec,,2019,Australia
+3,Europe,asbgsec,10.1571115393237,2019,Austria
+4,Asia,asbgsec,,2019,Bahrain
+5,Europe,asbgsec,,2019,Armenia
+6,Europe,asbgsec,,2019,Bosnia and Herzegovina
+7,Europe,asbgsec,,2019,Bulgaria
+8,Other,asbgsec,9.956271180938229,2019,Canada
+9,Other,asbgsec,10.284346274367115,2019,Chile
+10,Asia,asbgsec,8.880675069260398,2019,Chinese Taipei
+11,Europe,asbgsec,10.144380483006085,2019,Croatia
+12,Europe,asbgsec,,2019,Cyprus
+13,Europe,asbgsec,10.113110032729695,2019,Czech Republic
+14,Europe,asbgsec,9.868367741925196,2019,Denmark
+15,Europe,asbgsec,10.125495768093735,2019,Finland
+16,Europe,asbgsec,10.146423505204217,2019,France
+17,Europe,asbgsec,9.916336372997947,2019,Georgia
+18,Europe,asbgsec,10.028713714728248,2019,Germany
+19,Asia,asbgsec,8.936718874066841,2019,Hong Kong
+20,Europe,asbgsec,10.495889532747068,2019,Hungary
+21,Asia,asbgsec,,2019,Iran
+22,Europe,asbgsec,,2019,Ireland
+23,Europe,asbgsec,9.71169231058268,2019,Italy
+24,Asia,asbgsec,,2019,Japan
+25,Asia,asbgsec,,2019,Kazakhstan
+26,Asia,asbgsec,8.820239630387487,2019,Korea
+27,Europe,asbgsec,,2019,Kosovo
+28,Asia,asbgsec,,2019,Kuwait
+29,Europe,asbgsec,,2019,Latvia
+30,Europe,asbgsec,10.337838002497854,2019,Lithuania
+31,Europe,asbgsec,9.936423818284672,2019,Malta
+32,Europe,asbgsec,,2019,Montenegro
+33,Other,asbgsec,,2019,Morocco
+34,Asia,asbgsec,,2019,Oman
+35,Europe,asbgsec,10.066313415187071,2019,Netherlands
+36,Other,asbgsec,,2019,New Zealand
+37,Europe,asbgsec,10.167822349596806,2019,Norway
+38,Asia,asbgsec,,2019,Pakistan
+39,Asia,asbgsec,,2019,Philippines
+40,Europe,asbgsec,,2019,Poland
+41,Europe,asbgsec,10.379922152359551,2019,Portugal
+42,Asia,asbgsec,9.881793936012293,2019,Qatar
+43,Europe,asbgsec,9.723711806320836,2019,Russian Federation
+44,Asia,asbgsec,,2019,Saudi Arabia
+45,Europe,asbgsec,,2019,Serbia
+46,Asia,asbgsec,10.100894133619441,2019,Singapore
+47,Europe,asbgsec,10.284955332773627,2019,Slovak Republic
+48,Other,asbgsec,,2019,South Other
+49,Europe,asbgsec,10.52280898423033,2019,Spain
+50,Europe,asbgsec,9.984972194708845,2019,Sweden
+51,Asia,asbgsec,10.09745094953374,2019,United Arab Emirates
+52,Asia,asbgsec,10.345426596982811,2019,Turkey
+53,Europe,asbgsec,,2019,North Macedonia
+54,Other,asbgsec,10.117553288341743,2019,United States
+55,Europe,asbgsec,10.498899936951249,2019,England
+56,Europe,asbgsec,,2019,Belgium
+57,Europe,bullying,11.268006089651758,2019,Albania
+58,Europe,bullying,10.943923645387404,2019,Azerbaijan
+59,Other,bullying,9.521081540362122,2019,Australia
+60,Europe,bullying,10.167133931853588,2019,Austria
+61,Asia,bullying,9.27721305231715,2019,Bahrain
+62,Europe,bullying,11.299804171311884,2019,Armenia
+63,Europe,bullying,10.823675016486288,2019,Bosnia and Herzegovina
+64,Europe,bullying,9.80151484824614,2019,Bulgaria
+65,Other,bullying,9.575742841280046,2019,Canada
+66,Other,bullying,9.838923195570816,2019,Chile
+67,Asia,bullying,10.251253070896448,2019,Chinese Taipei
+68,Europe,bullying,10.449588753774323,2019,Croatia
+69,Europe,bullying,10.002366836597671,2019,Cyprus
+70,Europe,bullying,10.15979816167705,2019,Czech Republic
+71,Europe,bullying,9.745929864553876,2019,Denmark
+72,Europe,bullying,10.687263826537512,2019,Finland
+73,Europe,bullying,10.51605580976276,2019,France
+74,Europe,bullying,10.876101125084366,2019,Georgia
+75,Europe,bullying,9.835837119259375,2019,Germany
+76,Asia,bullying,9.914109925042528,2019,Hong Kong
+77,Europe,bullying,9.90828219809544,2019,Hungary
+78,Asia,bullying,10.033636999036535,2019,Iran
+79,Europe,bullying,10.483892597411922,2019,Ireland
+80,Europe,bullying,9.651448919105505,2019,Italy
+81,Asia,bullying,10.910764310927284,2019,Japan
+82,Asia,bullying,10.48241200823653,2019,Kazakhstan
+83,Asia,bullying,10.635453198524619,2019,Korea
+84,Europe,bullying,11.133709905492715,2019,Kosovo
+85,Asia,bullying,9.23533590915899,2019,Kuwait
+86,Europe,bullying,9.355322702587289,2019,Latvia
+87,Europe,bullying,10.297337966236393,2019,Lithuania
+88,Europe,bullying,9.677441335837496,2019,Malta
+89,Europe,bullying,11.098508211367669,2019,Montenegro
+90,Other,bullying,9.578585012374267,2019,Morocco
+91,Asia,bullying,9.296306423124438,2019,Oman
+92,Europe,bullying,10.028156859676365,2019,Netherlands
+93,Other,bullying,9.257827939895373,2019,New Zealand
+94,Europe,bullying,10.328710377022945,2019,Norway
+95,Asia,bullying,9.277897962041948,2019,Pakistan
+96,Asia,bullying,7.7194995598826495,2019,Philippines
+97,Europe,bullying,10.376115050810693,2019,Poland
+98,Europe,bullying,9.78245367162183,2019,Portugal
+99,Asia,bullying,9.017813134135052,2019,Qatar
+100,Europe,bullying,9.606995130679572,2019,Russian Federation
+101,Asia,bullying,9.552122137979635,2019,Saudi Arabia
+102,Europe,bullying,11.069066308910541,2019,Serbia
+103,Asia,bullying,9.723303844929228,2019,Singapore
+104,Europe,bullying,10.17735719755231,2019,Slovak Republic
+105,Other,bullying,8.38136664386568,2019,South Other
+106,Europe,bullying,9.924976553317956,2019,Spain
+107,Europe,bullying,10.0462220841639,2019,Sweden
+108,Asia,bullying,9.502811192955912,2019,United Arab Emirates
+109,Asia,bullying,9.90237668719694,2019,Turkey
+110,Europe,bullying,10.271382470610286,2019,North Macedonia
+111,Other,bullying,9.976884672903545,2019,United States
+112,Europe,bullying,9.798659134086318,2019,England
+113,Europe,bullying,9.473641299993274,2019,Belgium
+114,Europe,disorder,10.93934276050468,2019,Albania
+115,Europe,disorder,10.622104889286327,2019,Azerbaijan
+116,Other,disorder,9.509323546019717,2019,Australia
+117,Europe,disorder,9.904540758424538,2019,Austria
+118,Asia,disorder,9.959008079630795,2019,Bahrain
+119,Europe,disorder,11.003713133378227,2019,Armenia
+120,Europe,disorder,9.914218670527863,2019,Bosnia and Herzegovina
+121,Europe,disorder,10.64585041025612,2019,Bulgaria
+122,Other,disorder,9.500064079544357,2019,Canada
+123,Other,disorder,8.734399456750019,2019,Chile
+124,Asia,disorder,10.09475612785532,2019,Chinese Taipei
+125,Europe,disorder,9.890683449366513,2019,Croatia
+126,Europe,disorder,9.666839448935793,2019,Cyprus
+127,Europe,disorder,9.852391425282788,2019,Czech Republic
+128,Europe,disorder,9.72321680301447,2019,Denmark
+129,Europe,disorder,10.16299785517568,2019,Finland
+130,Europe,disorder,9.603518741582937,2019,France
+131,Europe,disorder,10.758177197176119,2019,Georgia
+132,Europe,disorder,9.332830876681312,2019,Germany
+133,Asia,disorder,10.223296344915505,2019,Hong Kong
+134,Europe,disorder,10.15032953105223,2019,Hungary
+135,Asia,disorder,10.077080747454824,2019,Iran
+136,Europe,disorder,10.202484723104252,2019,Ireland
+137,Europe,disorder,9.211927044257868,2019,Italy
+138,Asia,disorder,11.267004700034517,2019,Japan
+139,Asia,disorder,10.833075792771702,2019,Kazakhstan
+140,Asia,disorder,10.260594603174455,2019,Korea
+141,Europe,disorder,10.74721130211552,2019,Kosovo
+142,Asia,disorder,9.5951516838194,2019,Kuwait
+143,Europe,disorder,10.022539605320885,2019,Latvia
+144,Europe,disorder,10.565643601699202,2019,Lithuania
+145,Europe,disorder,9.359595667365308,2019,Malta
+146,Europe,disorder,10.384046965867396,2019,Montenegro
+147,Other,disorder,10.401369733686375,2019,Morocco
+148,Asia,disorder,10.2321385904761,2019,Oman
+149,Europe,disorder,9.736304758736303,2019,Netherlands
+150,Other,disorder,9.254601478150647,2019,New Zealand
+151,Europe,disorder,9.954544596268892,2019,Norway
+152,Asia,disorder,10.347471420295873,2019,Pakistan
+153,Asia,disorder,9.298757260224068,2019,Philippines
+154,Europe,disorder,9.636096181114453,2019,Poland
+155,Europe,disorder,9.651567894164657,2019,Portugal
+156,Asia,disorder,9.82124704304195,2019,Qatar
+157,Europe,disorder,10.137711220034378,2019,Russian Federation
+158,Asia,disorder,10.373420738016371,2019,Saudi Arabia
+159,Europe,disorder,10.309410648850157,2019,Serbia
+160,Asia,disorder,,2019,Singapore
+161,Europe,disorder,9.80391631659239,2019,Slovak Republic
+162,Other,disorder,9.212912682473746,2019,South Other
+163,Europe,disorder,9.434251508626337,2019,Spain
+164,Europe,disorder,9.698449678691425,2019,Sweden
+165,Asia,disorder,10.219411367352889,2019,United Arab Emirates
+166,Asia,disorder,10.055815483833937,2019,Turkey
+167,Europe,disorder,10.525319202366923,2019,North Macedonia
+168,Other,disorder,9.403568898416482,2019,United States
+169,Europe,disorder,9.755577331743492,2019,England
+170,Europe,disorder,9.887270180113672,2019,Belgium
+171,Europe,likemath,11.824451083422455,2019,Albania
+172,Europe,likemath,10.908520538482636,2019,Azerbaijan
+173,Other,likemath,9.737817650438947,2019,Australia
+174,Europe,likemath,9.804547044688674,2019,Austria
+175,Asia,likemath,10.621447617709576,2019,Bahrain
+176,Europe,likemath,11.387560817266648,2019,Armenia
+177,Europe,likemath,10.113032569689889,2019,Bosnia and Herzegovina
+178,Europe,likemath,10.388346128018853,2019,Bulgaria
+179,Other,likemath,9.654867583708308,2019,Canada
+180,Other,likemath,9.998853261358803,2019,Chile
+181,Asia,likemath,8.85925628590651,2019,Chinese Taipei
+182,Europe,likemath,9.071070302763053,2019,Croatia
+183,Europe,likemath,10.467252741336921,2019,Cyprus
+184,Europe,likemath,9.38746485849052,2019,Czech Republic
+185,Europe,likemath,9.242144736992625,2019,Denmark
+186,Europe,likemath,9.228473726230218,2019,Finland
+187,Europe,likemath,10.238703761971717,2019,France
+188,Europe,likemath,11.427829182056456,2019,Georgia
+189,Europe,likemath,9.506324633587877,2019,Germany
+190,Asia,likemath,9.31965688402955,2019,Hong Kong
+191,Europe,likemath,9.717448592641194,2019,Hungary
+192,Asia,likemath,10.762707691893906,2019,Iran
+193,Europe,likemath,9.531627312307643,2019,Ireland
+194,Europe,likemath,10.021858262569909,2019,Italy
+195,Asia,likemath,9.43972736036033,2019,Japan
+196,Asia,likemath,11.112608697283042,2019,Kazakhstan
+197,Asia,likemath,8.945016530517094,2019,Korea
+198,Europe,likemath,11.399647521154384,2019,Kosovo
+199,Asia,likemath,10.173135492065956,2019,Kuwait
+200,Europe,likemath,9.451065548463507,2019,Latvia
+201,Europe,likemath,10.118484602501491,2019,Lithuania
+202,Europe,likemath,10.12947695107943,2019,Malta
+203,Europe,likemath,10.905438937971098,2019,Montenegro
+204,Other,likemath,11.267437755987519,2019,Morocco
+205,Asia,likemath,10.794090830537911,2019,Oman
+206,Europe,likemath,9.281314213218181,2019,Netherlands
+207,Other,likemath,9.787506830027464,2019,New Zealand
+208,Europe,likemath,9.43302732681686,2019,Norway
+209,Asia,likemath,9.916590248210934,2019,Pakistan
+210,Asia,likemath,9.752944434387441,2019,Philippines
+211,Europe,likemath,9.199263363580497,2019,Poland
+212,Europe,likemath,10.328410076037102,2019,Portugal
+213,Asia,likemath,10.03887187698235,2019,Qatar
+214,Europe,likemath,9.977980244599598,2019,Russian Federation
+215,Asia,likemath,10.784473321558222,2019,Saudi Arabia
+216,Europe,likemath,9.552722705110982,2019,Serbia
+217,Asia,likemath,9.704576927244272,2019,Singapore
+218,Europe,likemath,9.690672633848276,2019,Slovak Republic
+219,Other,likemath,10.251784177690647,2019,South Other
+220,Europe,likemath,9.69883907472749,2019,Spain
+221,Europe,likemath,9.504431539171144,2019,Sweden
+222,Asia,likemath,10.519197397127066,2019,United Arab Emirates
+223,Asia,likemath,10.934587711294318,2019,Turkey
+224,Europe,likemath,10.978592114491967,2019,North Macedonia
+225,Other,likemath,9.654323202395794,2019,United States
+226,Europe,likemath,9.915627526963165,2019,England
+227,Europe,likemath,9.427250486623887,2019,Belgium
+228,Europe,clarity,11.711716489155183,2019,Albania
+229,Europe,clarity,10.779408499690774,2019,Azerbaijan
+230,Other,clarity,9.940856629021752,2019,Australia
+231,Europe,clarity,10.01863384477581,2019,Austria
+232,Asia,clarity,10.136692872097969,2019,Bahrain
+233,Europe,clarity,10.753966475338329,2019,Armenia
+234,Europe,clarity,10.812779937673042,2019,Bosnia and Herzegovina
+235,Europe,clarity,10.747662113241153,2019,Bulgaria
+236,Other,clarity,9.970961601901983,2019,Canada
+237,Other,clarity,9.591956645123178,2019,Chile
+238,Asia,clarity,9.425762106458029,2019,Chinese Taipei
+239,Europe,clarity,9.6181455444032,2019,Croatia
+240,Europe,clarity,10.409816390094411,2019,Cyprus
+241,Europe,clarity,9.835149746678828,2019,Czech Republic
+242,Europe,clarity,9.05426620179356,2019,Denmark
+243,Europe,clarity,9.45812508019719,2019,Finland
+244,Europe,clarity,9.369384508201001,2019,France
+245,Europe,clarity,10.821129385144173,2019,Georgia
+246,Europe,clarity,9.70990910178524,2019,Germany
+247,Asia,clarity,9.218976689077612,2019,Hong Kong
+248,Europe,clarity,10.190033147413423,2019,Hungary
+249,Asia,clarity,10.816753821487582,2019,Iran
+250,Europe,clarity,10.074745926485551,2019,Ireland
+251,Europe,clarity,9.573542569361685,2019,Italy
+252,Asia,clarity,8.509368398020882,2019,Japan
+253,Asia,clarity,10.07603165390924,2019,Kazakhstan
+254,Asia,clarity,8.488189536012614,2019,Korea
+255,Europe,clarity,11.26664039531645,2019,Kosovo
+256,Asia,clarity,9.858761953188544,2019,Kuwait
+257,Europe,clarity,9.491633875747477,2019,Latvia
+258,Europe,clarity,10.184516190962407,2019,Lithuania
+259,Europe,clarity,10.317639223097528,2019,Malta
+260,Europe,clarity,11.053238092096409,2019,Montenegro
+261,Other,clarity,10.337298817906557,2019,Morocco
+262,Asia,clarity,10.148780991043244,2019,Oman
+263,Europe,clarity,9.834338193834956,2019,Netherlands
+264,Other,clarity,9.701364054094903,2019,New Zealand
+265,Europe,clarity,9.616271232312066,2019,Norway
+266,Asia,clarity,10.206549550566173,2019,Pakistan
+267,Asia,clarity,8.764916638663374,2019,Philippines
+268,Europe,clarity,9.241304438704148,2019,Poland
+269,Europe,clarity,10.432213020009002,2019,Portugal
+270,Asia,clarity,9.827593482085641,2019,Qatar
+271,Europe,clarity,9.842011213538354,2019,Russian Federation
+272,Asia,clarity,10.10456225906424,2019,Saudi Arabia
+273,Europe,clarity,10.209249351991541,2019,Serbia
+274,Asia,clarity,9.57214976138296,2019,Singapore
+275,Europe,clarity,9.943426736827014,2019,Slovak Republic
+276,Other,clarity,9.819223805471657,2019,South Other
+277,Europe,clarity,10.156057324877473,2019,Spain
+278,Europe,clarity,9.455921408852857,2019,Sweden
+279,Asia,clarity,10.17792600869504,2019,United Arab Emirates
+280,Asia,clarity,10.066013418879818,2019,Turkey
+281,Europe,clarity,11.324599880276823,2019,North Macedonia
+282,Other,clarity,10.109359447269645,2019,United States
+283,Europe,clarity,9.954147857420407,2019,England
+284,Europe,clarity,9.814731459714528,2019,Belgium
+285,Europe,belonging,12.30338913246189,2019,Albania
+286,Europe,belonging,11.142630810684194,2019,Azerbaijan
+287,Other,belonging,9.794311195045273,2019,Australia
+288,Europe,belonging,9.926319928538737,2019,Austria
+289,Asia,belonging,10.177002056040127,2019,Bahrain
+290,Europe,belonging,10.793625878993993,2019,Armenia
+291,Europe,belonging,10.493291027798577,2019,Bosnia and Herzegovina
+292,Europe,belonging,10.714380521001402,2019,Bulgaria
+293,Other,belonging,9.691066414470319,2019,Canada
+294,Other,belonging,9.971201616144768,2019,Chile
+295,Asia,belonging,8.933456025484459,2019,Chinese Taipei
+296,Europe,belonging,9.159821644262335,2019,Croatia
+297,Europe,belonging,9.807885833306676,2019,Cyprus
+298,Europe,belonging,9.198132470793261,2019,Czech Republic
+299,Europe,belonging,9.836873363469513,2019,Denmark
+300,Europe,belonging,10.030439634021633,2019,Finland
+301,Europe,belonging,9.304619553344576,2019,France
+302,Europe,belonging,11.003828679732809,2019,Georgia
+303,Europe,belonging,9.435001352363384,2019,Germany
+304,Asia,belonging,8.766224150985014,2019,Hong Kong
+305,Europe,belonging,9.822114374296966,2019,Hungary
+306,Asia,belonging,10.041509899546341,2019,Iran
+307,Europe,belonging,10.004591974977629,2019,Ireland
+308,Europe,belonging,9.615031634291864,2019,Italy
+309,Asia,belonging,8.969040782855341,2019,Japan
+310,Asia,belonging,10.589760452215966,2019,Kazakhstan
+311,Asia,belonging,9.376899184067652,2019,Korea
+312,Europe,belonging,12.153200340405485,2019,Kosovo
+313,Asia,belonging,9.995612488216933,2019,Kuwait
+314,Europe,belonging,9.217602093821966,2019,Latvia
+315,Europe,belonging,9.991979693210938,2019,Lithuania
+316,Europe,belonging,9.950281102680181,2019,Malta
+317,Europe,belonging,11.202920959502144,2019,Montenegro
+318,Other,belonging,11.311332529340069,2019,Morocco
+319,Asia,belonging,10.369913187743006,2019,Oman
+320,Europe,belonging,10.034730350779979,2019,Netherlands
+321,Other,belonging,9.975049270025151,2019,New Zealand
+322,Europe,belonging,10.186214616594237,2019,Norway
+323,Asia,belonging,11.040389285835422,2019,Pakistan
+324,Asia,belonging,9.483296713139094,2019,Philippines
+325,Europe,belonging,8.908008378984793,2019,Poland
+326,Europe,belonging,10.924649310597104,2019,Portugal
+327,Asia,belonging,9.620143605729021,2019,Qatar
+328,Europe,belonging,9.429075437890328,2019,Russian Federation
+329,Asia,belonging,10.527985004014125,2019,Saudi Arabia
+330,Europe,belonging,10.147357810310854,2019,Serbia
+331,Asia,belonging,9.3731046502051,2019,Singapore
+332,Europe,belonging,9.533748928980604,2019,Slovak Republic
+333,Other,belonging,9.980931782414439,2019,South Other
+334,Europe,belonging,10.394039133133756,2019,Spain
+335,Europe,belonging,9.637286090165874,2019,Sweden
+336,Asia,belonging,10.06193413215226,2019,United Arab Emirates
+337,Asia,belonging,10.69880583859463,2019,Turkey
+338,Europe,belonging,11.43616304703064,2019,North Macedonia
+339,Other,belonging,9.598473832813974,2019,United States
+340,Europe,belonging,9.84983101521511,2019,England
+341,Europe,belonging,9.784644328196963,2019,Belgium
+342,Europe,confident,11.043314553310555,2019,Albania
+343,Europe,confident,10.686255934860645,2019,Azerbaijan
+344,Other,confident,9.851613715859639,2019,Australia
+345,Europe,confident,10.334802150605114,2019,Austria
+346,Asia,confident,10.547366087545246,2019,Bahrain
+347,Europe,confident,10.598087868412026,2019,Armenia
+348,Europe,confident,10.521081813532597,2019,Bosnia and Herzegovina
+349,Europe,confident,10.49055121077657,2019,Bulgaria
+350,Other,confident,9.954817082789488,2019,Canada
+351,Other,confident,9.491276417219405,2019,Chile
+352,Asia,confident,9.028081114022209,2019,Chinese Taipei
+353,Europe,confident,10.042266207175064,2019,Croatia
+354,Europe,confident,10.843337868810801,2019,Cyprus
+355,Europe,confident,9.53088841023927,2019,Czech Republic
+356,Europe,confident,9.847600906005061,2019,Denmark
+357,Europe,confident,10.06422493500076,2019,Finland
+358,Europe,confident,10.018375131879026,2019,France
+359,Europe,confident,10.443371733468526,2019,Georgia
+360,Europe,confident,10.02415009955825,2019,Germany
+361,Asia,confident,9.201678151924423,2019,Hong Kong
+362,Europe,confident,10.236937786893922,2019,Hungary
+363,Asia,confident,10.23193881318179,2019,Iran
+364,Europe,confident,10.020256362504835,2019,Ireland
+365,Europe,confident,10.160982140924684,2019,Italy
+366,Asia,confident,9.237904459706334,2019,Japan
+367,Asia,confident,10.603954361039971,2019,Kazakhstan
+368,Asia,confident,9.16182683033313,2019,Korea
+369,Europe,confident,10.965734341717027,2019,Kosovo
+370,Asia,confident,10.039455213854824,2019,Kuwait
+371,Europe,confident,9.51817760240918,2019,Latvia
+372,Europe,confident,9.909215817143153,2019,Lithuania
+373,Europe,confident,9.984435548731266,2019,Malta
+374,Europe,confident,11.056599970909108,2019,Montenegro
+375,Other,confident,10.377307805176276,2019,Morocco
+376,Asia,confident,10.28458387415203,2019,Oman
+377,Europe,confident,10.26331025468273,2019,Netherlands
+378,Other,confident,9.429606406128435,2019,New Zealand
+379,Europe,confident,10.250341227260057,2019,Norway
+380,Asia,confident,9.662199346390842,2019,Pakistan
+381,Asia,confident,9.037685419652629,2019,Philippines
+382,Europe,confident,9.530164465331548,2019,Poland
+383,Europe,confident,9.456975514559202,2019,Portugal
+384,Asia,confident,9.875013220182721,2019,Qatar
+385,Europe,confident,9.560915623155253,2019,Russian Federation
+386,Asia,confident,10.638895766075613,2019,Saudi Arabia
+387,Europe,confident,10.133030733679373,2019,Serbia
+388,Asia,confident,9.309280132705734,2019,Singapore
+389,Europe,confident,9.946277274421305,2019,Slovak Republic
+390,Other,confident,9.418056381976626,2019,South Other
+391,Europe,confident,9.742376445026926,2019,Spain
+392,Europe,confident,10.23052755042453,2019,Sweden
+393,Asia,confident,10.168467273112778,2019,United Arab Emirates
+394,Asia,confident,10.111773404233062,2019,Turkey
+395,Europe,confident,10.890818082154997,2019,North Macedonia
+396,Other,confident,9.998231553765262,2019,United States
+397,Europe,confident,9.92329133255031,2019,England
+398,Europe,confident,9.88153082020503,2019,Belgium
+399,Europe,homeres,8.642445150543166,2019,Albania
+400,Europe,homeres,9.114184180021548,2019,Azerbaijan
+401,Other,homeres,,2019,Australia
+402,Europe,homeres,10.583441933171175,2019,Austria
+403,Asia,homeres,9.908332597601225,2019,Bahrain
+404,Europe,homeres,9.542729620901692,2019,Armenia
+405,Europe,homeres,9.327005829462726,2019,Bosnia and Herzegovina
+406,Europe,homeres,9.56012531530146,2019,Bulgaria
+407,Other,homeres,11.298178604127546,2019,Canada
+408,Other,homeres,9.29937443631279,2019,Chile
+409,Asia,homeres,10.369470527283744,2019,Chinese Taipei
+410,Europe,homeres,9.91416555122665,2019,Croatia
+411,Europe,homeres,10.915306940847433,2019,Cyprus
+412,Europe,homeres,10.784716886200606,2019,Czech Republic
+413,Europe,homeres,11.293728775377202,2019,Denmark
+414,Europe,homeres,11.18424017609345,2019,Finland
+415,Europe,homeres,10.75271206686526,2019,France
+416,Europe,homeres,10.26864613549311,2019,Georgia
+417,Europe,homeres,10.827174982175656,2019,Germany
+418,Asia,homeres,10.50641761264268,2019,Hong Kong
+419,Europe,homeres,10.590394996924704,2019,Hungary
+420,Asia,homeres,8.697654093580372,2019,Iran
+421,Europe,homeres,11.085863890101429,2019,Ireland
+422,Europe,homeres,9.778170256880857,2019,Italy
+423,Asia,homeres,10.256797343826895,2019,Japan
+424,Asia,homeres,9.797306047489334,2019,Kazakhstan
+425,Asia,homeres,11.856054915849333,2019,Korea
+426,Europe,homeres,9.129842653680909,2019,Kosovo
+427,Asia,homeres,9.821736349669308,2019,Kuwait
+428,Europe,homeres,10.616344269292435,2019,Latvia
+429,Europe,homeres,10.358911134391555,2019,Lithuania
+430,Europe,homeres,10.811988564883519,2019,Malta
+431,Europe,homeres,9.956019276345927,2019,Montenegro
+432,Other,homeres,6.899377714564752,2019,Morocco
+433,Asia,homeres,9.378532419106444,2019,Oman
+434,Europe,homeres,,2019,Netherlands
+435,Other,homeres,11.36260937314931,2019,New Zealand
+436,Europe,homeres,11.509890447913191,2019,Norway
+437,Asia,homeres,7.961692757298498,2019,Pakistan
+438,Asia,homeres,8.07702805167572,2019,Philippines
+439,Europe,homeres,10.6038723262192,2019,Poland
+440,Europe,homeres,10.22147849423331,2019,Portugal
+441,Asia,homeres,10.226905150414522,2019,Qatar
+442,Europe,homeres,10.301724571178696,2019,Russian Federation
+443,Asia,homeres,9.393734588777226,2019,Saudi Arabia
+444,Europe,homeres,10.019243658760475,2019,Serbia
+445,Asia,homeres,11.021298592002427,2019,Singapore
+446,Europe,homeres,10.238520898910139,2019,Slovak Republic
+447,Other,homeres,8.476600891016874,2019,South Other
+448,Europe,homeres,10.404066183803076,2019,Spain
+449,Europe,homeres,11.221333815249228,2019,Sweden
+450,Asia,homeres,10.355456112971304,2019,United Arab Emirates
+451,Asia,homeres,8.72985664445983,2019,Turkey
+452,Europe,homeres,9.298513293483445,2019,North Macedonia
+453,Other,homeres,,2019,United States
+454,Europe,homeres,,2019,England
+455,Europe,homeres,10.737845609668524,2019,Belgium
+456,Europe,math,494.0174865722656,2019,Albania
+457,Europe,math,515.4545288085938,2019,Azerbaijan
+458,Other,math,515.880126953125,2019,Australia
+459,Europe,math,539.2192993164062,2019,Austria
+460,Asia,math,479.8526611328125,2019,Bahrain
+461,Europe,math,498.1854248046875,2019,Armenia
+462,Europe,math,451.68206787109375,2019,Bosnia and Herzegovina
+463,Europe,math,515.0187377929688,2019,Bulgaria
+464,Other,math,511.5641784667969,2019,Canada
+465,Other,math,440.9723815917969,2019,Chile
+466,Asia,math,599.2395629882812,2019,Chinese Taipei
+467,Europe,math,509.4981994628906,2019,Croatia
+468,Europe,math,532.0938720703125,2019,Cyprus
+469,Europe,math,532.97509765625,2019,Czech Republic
+470,Europe,math,524.54150390625,2019,Denmark
+471,Europe,math,532.070556640625,2019,Finland
+472,Europe,math,484.8107604980469,2019,France
+473,Europe,math,481.8190002441406,2019,Georgia
+474,Europe,math,520.9806518554688,2019,Germany
+475,Asia,math,601.6223754882812,2019,Hong Kong
+476,Europe,math,523.4308471679688,2019,Hungary
+477,Asia,math,443.0350036621094,2019,Iran
+478,Europe,math,548.4653930664062,2019,Ireland
+479,Europe,math,514.9230346679688,2019,Italy
+480,Asia,math,592.9568481445312,2019,Japan
+481,Asia,math,512.0887451171875,2019,Kazakhstan
+482,Asia,math,599.6079711914062,2019,Korea
+483,Europe,math,444.3536682128906,2019,Kosovo
+484,Asia,math,383.31787109375,2019,Kuwait
+485,Europe,math,546.1332397460938,2019,Latvia
+486,Europe,math,542.1312866210938,2019,Lithuania
+487,Europe,math,509.12530517578125,2019,Malta
+488,Europe,math,452.7799987792969,2019,Montenegro
+489,Other,math,383.38800048828125,2019,Morocco
+490,Asia,math,430.8736267089844,2019,Oman
+491,Europe,math,537.5092163085938,2019,Netherlands
+492,Other,math,487.19183349609375,2019,New Zealand
+493,Europe,math,542.6693725585938,2019,Norway
+494,Asia,math,327.6905517578125,2019,Pakistan
+495,Asia,math,296.6751403808594,2019,Philippines
+496,Europe,math,520.1396484375,2019,Poland
+497,Europe,math,525.0914916992188,2019,Portugal
+498,Asia,math,449.4120178222656,2019,Qatar
+499,Europe,math,566.947021484375,2019,Russian Federation
+500,Asia,math,398.0931091308594,2019,Saudi Arabia
+501,Europe,math,507.8810729980469,2019,Serbia
+502,Asia,math,625.4286499023438,2019,Singapore
+503,Europe,math,509.84088134765625,2019,Slovak Republic
+504,Other,math,373.5644836425781,2019,South Other
+505,Europe,math,502.47161865234375,2019,Spain
+506,Europe,math,521.2293090820312,2019,Sweden
+507,Asia,math,481.3867492675781,2019,United Arab Emirates
+508,Asia,math,522.8562622070312,2019,Turkey
+509,Europe,math,471.7200622558594,2019,North Macedonia
+510,Other,math,534.732421875,2019,United States
+511,Europe,math,555.843017578125,2019,England
+512,Europe,math,532.44287109375,2019,Belgium
+513,Europe,science,489.4802551269531,2019,Albania
+514,Europe,science,426.7347412109375,2019,Azerbaijan
+515,Other,science,532.574951171875,2019,Australia
+516,Europe,science,522.0604858398438,2019,Austria
+517,Asia,science,492.54248046875,2019,Bahrain
+518,Europe,science,466.4317321777344,2019,Armenia
+519,Europe,science,458.5942077636719,2019,Bosnia and Herzegovina
+520,Europe,science,521.3024291992188,2019,Bulgaria
+521,Other,science,523.03271484375,2019,Canada
+522,Other,science,469.11578369140625,2019,Chile
+523,Asia,science,558.0504150390625,2019,Chinese Taipei
+524,Europe,science,523.8643798828125,2019,Croatia
+525,Europe,science,511.4191589355469,2019,Cyprus
+526,Europe,science,533.7195434570312,2019,Czech Republic
+527,Europe,science,522.1626586914062,2019,Denmark
+528,Europe,science,554.5612182617188,2019,Finland
+529,Europe,science,487.72802734375,2019,France
+530,Europe,science,454.21337890625,2019,Georgia
+531,Europe,science,518.3460083007812,2019,Germany
+532,Asia,science,531.2499389648438,2019,Hong Kong
+533,Europe,science,529.4384155273438,2019,Hungary
+534,Asia,science,440.8280334472656,2019,Iran
+535,Europe,science,527.9703979492188,2019,Ireland
+536,Europe,science,509.7282409667969,2019,Italy
+537,Asia,science,561.6589965820312,2019,Japan
+538,Asia,science,494.15484619140625,2019,Kazakhstan
+539,Asia,science,587.60693359375,2019,Korea
+540,Europe,science,413.05938720703125,2019,Kosovo
+541,Asia,science,392.2951354980469,2019,Kuwait
+542,Europe,science,541.8577270507812,2019,Latvia
+543,Europe,science,538.0792236328125,2019,Lithuania
+544,Europe,science,495.7906799316406,2019,Malta
+545,Europe,science,453.3214111328125,2019,Montenegro
+546,Other,science,374.0657043457031,2019,Morocco
+547,Asia,science,434.9443054199219,2019,Oman
+548,Europe,science,518.4713134765625,2019,Netherlands
+549,Other,science,502.55145263671875,2019,New Zealand
+550,Europe,science,539.4016723632812,2019,Norway
+551,Asia,science,290.0965270996094,2019,Pakistan
+552,Asia,science,249.01809692382812,2019,Philippines
+553,Europe,science,530.8328247070312,2019,Poland
+554,Europe,science,503.81512451171875,2019,Portugal
+555,Asia,science,449.4719543457031,2019,Qatar
+556,Europe,science,567.2546997070312,2019,Russian Federation
+557,Asia,science,402.2369384765625,2019,Saudi Arabia
+558,Europe,science,516.907470703125,2019,Serbia
+559,Asia,science,594.5286865234375,2019,Singapore
+560,Europe,science,520.7320556640625,2019,Slovak Republic
+561,Other,science,324.2336120605469,2019,South Other
+562,Europe,science,511.2821350097656,2019,Spain
+563,Europe,science,537.2332763671875,2019,Sweden
+564,Asia,science,472.5437927246094,2019,United Arab Emirates
+565,Asia,science,526.3551025390625,2019,Turkey
+566,Europe,science,426.04266357421875,2019,North Macedonia
+567,Other,science,538.642578125,2019,United States
+568,Europe,science,537.0260620117188,2019,England
+569,Europe,science,501.01702880859375,2019,Belgium
