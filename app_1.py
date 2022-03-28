@@ -53,13 +53,12 @@ html.H3('Analysis level'),
 
     dcc.Link(html.Button('School level'), href='/school-lvl'),
 
-    dcc.Link(html.Button('Student level'), href='/student-lvl'),
-
-],  style={
+    dcc.Link(html.Button('Student level'), href='/student-lvl')],id='dash',  style={
   # 'className': 'cover',
-  'textAlign': 'center', 'position':'fixed',
+  'textAlign': 'center',
+  'position':'fixed',
   'width':'100%',
-  'height':'100%',
+  'height':'500px',
   'top':'0px',
   'left':'0px',
   # 'zIndex':'1000',
@@ -80,7 +79,7 @@ country_layout = html.Div([
 
 html.Div(
     dbc.Button('Analysis level', className="tutorial", href='/dash'),
-    style={'width': '10%', 'display': 'inline-block'}
+    style={'width': '12%', 'display': 'inline-block'}
 ),
 html.Div(
     [
@@ -99,7 +98,7 @@ html.Div(
             size="lg",
         ),
     ]
-,style={'width': '10%', 'display': 'inline-block'}),
+,style={'width': '12%', 'display': 'inline-block'}),
 ]),
         html.Div(
         [html.H4('x axis'),
@@ -154,8 +153,9 @@ html.Div(
 
     html.Div([html.P(dash_dangerously_set_inner_html.DangerouslySetInnerHTML(''))],id='stats', style={'margin-left': 'auto','margin-right':'auto'})
 
-],  style={
-            'textAlign': 'center'})
+], id='dash', style={
+            'textAlign': 'center',
+            'height': '1200px'})
 @app1.callback(
     Output("modal", "is_open"),
     [Input("open", "n_clicks"), Input("close", "n_clicks")],
@@ -256,7 +256,7 @@ school_layout = html.Div([
 
 html.Div(
     dbc.Button('Analysis level', className="tutorial", href='/dash'),
-    style={'width': '10%', 'display': 'inline-block'}
+    style={'width': '12%', 'display': 'inline-block'}
 ),
 html.Div(
     [
@@ -275,7 +275,7 @@ html.Div(
             size="lg",
         ),
     ]
-,style={'width': '10%', 'display': 'inline-block'}),
+,style={'width': '12%', 'display': 'inline-block'}),
 ]),
     html.Div(
 
@@ -455,7 +455,7 @@ student_layout = html.Div([
 
 html.Div(
     dbc.Button('Analysis level', className="tutorial", href='/dash'),
-    style={'width': '10%', 'display': 'inline-block'}
+    style={'width': '12%', 'display': 'inline-block'}
 ),
 html.Div(
     [
@@ -474,7 +474,7 @@ html.Div(
             size="lg",
         ),
     ]
-,style={'width': '10%', 'display': 'inline-block'}),
+,style={'width': '12%', 'display': 'inline-block'}),
 ]),
     html.Div(
 
