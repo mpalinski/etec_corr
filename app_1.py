@@ -27,7 +27,7 @@ available_countries = df['Country Name'].unique()
 
 # external JavaScript files
 external_scripts = [
-    'https://cdn.jsdelivr.net/gh/mpalinski/etec_corr@main/assets/resizing.js'
+    'https://cdn.jsdelivr.net/gh/mpalinski/etec_corr@main/assets/resize.js'
 ]
 
 
